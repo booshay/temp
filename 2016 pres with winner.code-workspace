@@ -1,0 +1,616 @@
+{
+    "name": "vote data",
+    "children": [{
+        "state": "Alabama",
+        "children": [{
+            "votes": 729547,
+            "state": "Alabama",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1318250,
+            "state": "Alabama",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Arizona",
+        "children": [{
+            "votes": 1161167,
+            "state": "Arizona",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1252401,
+            "state": "Arizona",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Arkansas",
+        "children": [{
+            "votes": 380494,
+            "state": "Arkansas",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 684872,
+            "state": "Arkansas",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "California",
+        "children": [{
+            "votes": 8753788,
+            "state": "California",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 4483810,
+            "state": "California",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Colorado",
+        "children": [{
+            "votes": 1338870,
+            "state": "Colorado",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1202484,
+            "state": "Colorado",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Connecticut",
+        "children": [{
+            "votes": null,
+            "state": "Connecticut",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": null,
+            "state": "Connecticut",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Delaware",
+        "children": [{
+            "votes": 235603,
+            "state": "Delaware",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 185127,
+            "state": "Delaware",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "District of Columbia",
+        "children": [{
+            "votes": 282830,
+            "state": "District of Columbia",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 12723,
+            "state": "District of Columbia",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Florida",
+        "children": [{
+            "votes": 4504975,
+            "state": "Florida",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 4617886,
+            "state": "Florida",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Georgia",
+        "children": [{
+            "votes": 1877963,
+            "state": "Georgia",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2089104,
+            "state": "Georgia",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Hawaii",
+        "children": [{
+            "votes": 266891,
+            "state": "Hawaii",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 128847,
+            "state": "Hawaii",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Idaho",
+        "children": [{
+            "votes": 189765,
+            "state": "Idaho",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 409055,
+            "state": "Idaho",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Illinois",
+        "children": [{
+            "votes": 3090729,
+            "state": "Illinois",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2146015,
+            "state": "Illinois",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Indiana",
+        "children": [{
+            "votes": 1033126,
+            "state": "Indiana",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1557286,
+            "state": "Indiana",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Iowa",
+        "children": [{
+            "votes": 653669,
+            "state": "Iowa",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 800983,
+            "state": "Iowa",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Kansas",
+        "children": [{
+            "votes": 427005,
+            "state": "Kansas",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 671018,
+            "state": "Kansas",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Kentucky",
+        "children": [{
+            "votes": 628854,
+            "state": "Kentucky",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1202971,
+            "state": "Kentucky",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Louisiana",
+        "children": [{
+            "votes": 780154,
+            "state": "Louisiana",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1178638,
+            "state": "Louisiana",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Maine",
+        "children": [{
+            "votes": 357735,
+            "state": "Maine",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 335593,
+            "state": "Maine",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Maryland",
+        "children": [{
+            "votes": 1677928,
+            "state": "Maryland",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 943169,
+            "state": "Maryland",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Massachusetts",
+        "children": [{
+            "votes": 1995196,
+            "state": "Massachusetts",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1090893,
+            "state": "Massachusetts",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Michigan",
+        "children": [{
+            "votes": 2268839,
+            "state": "Michigan",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2279543,
+            "state": "Michigan",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Minnesota",
+        "children": [{
+            "votes": 1367716,
+            "state": "Minnesota",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1322951,
+            "state": "Minnesota",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Mississippi",
+        "children": [{
+            "votes": 485131,
+            "state": "Mississippi",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 700714,
+            "state": "Mississippi",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Missouri",
+        "children": [{
+            "votes": 1071068,
+            "state": "Missouri",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1594511,
+            "state": "Missouri",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Montana",
+        "children": [{
+            "votes": 177709,
+            "state": "Montana",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 279240,
+            "state": "Montana",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Nebraska",
+        "children": [{
+            "votes": 284494,
+            "state": "Nebraska",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 495961,
+            "state": "Nebraska",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Nevada",
+        "children": [{
+            "votes": 539260,
+            "state": "Nevada",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 512058,
+            "state": "Nevada",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "New Hampshire",
+        "children": [{
+            "votes": 348526,
+            "state": "New Hampshire",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 345790,
+            "state": "New Hampshire",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "New Jersey",
+        "children": [{
+            "votes": 2148278,
+            "state": "New Jersey",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1601933,
+            "state": "New Jersey",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "New Mexico",
+        "children": [{
+            "votes": 385234,
+            "state": "New Mexico",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 319667,
+            "state": "New Mexico",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "New York",
+        "children": [{
+            "votes": 4547562,
+            "state": "New York",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2814589,
+            "state": "New York",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "North Carolina",
+        "children": [{
+            "votes": 2189316,
+            "state": "North Carolina",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2362631,
+            "state": "North Carolina",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "North Dakota",
+        "children": [{
+            "votes": 93758,
+            "state": "North Dakota",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 216794,
+            "state": "North Dakota",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Ohio",
+        "children": [{
+            "votes": 2394164,
+            "state": "Ohio",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2841005,
+            "state": "Ohio",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Oklahoma",
+        "children": [{
+            "votes": 420375,
+            "state": "Oklahoma",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 949136,
+            "state": "Oklahoma",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Oregon",
+        "children": [{
+            "votes": 1002106,
+            "state": "Oregon",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 782403,
+            "state": "Oregon",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Pennsylvania",
+        "children": [{
+            "votes": 2926441,
+            "state": "Pennsylvania",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 2970733,
+            "state": "Pennsylvania",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Rhode Island",
+        "children": [{
+            "votes": 252525,
+            "state": "Rhode Island",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 180543,
+            "state": "Rhode Island",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "South Carolina",
+        "children": [{
+            "votes": 855373,
+            "state": "South Carolina",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1155389,
+            "state": "South Carolina",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "South Dakota",
+        "children": [{
+            "votes": 117458,
+            "state": "South Dakota",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 227721,
+            "state": "South Dakota",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Tennessee",
+        "children": [{
+            "votes": 870695,
+            "state": "Tennessee",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1522925,
+            "state": "Tennessee",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Texas",
+        "children": [{
+            "votes": 3877868,
+            "state": "Texas",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 4685047,
+            "state": "Texas",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Utah",
+        "children": [{
+            "votes": 310676,
+            "state": "Utah",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 515231,
+            "state": "Utah",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Vermont",
+        "children": [{
+            "votes": 178573,
+            "state": "Vermont",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 95369,
+            "state": "Vermont",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "Virginia",
+        "children": [{
+            "votes": null,
+            "state": "Virginia",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": null,
+            "state": "Virginia",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Washington",
+        "children": [{
+            "votes": 1742718,
+            "state": "Washington",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1221747,
+            "state": "Washington",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "blue"
+    }, {
+        "state": "West Virginia",
+        "children": [{
+            "votes": 188794,
+            "state": "West Virginia",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 489371,
+            "state": "West Virginia",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Wisconsin",
+        "children": [{
+            "votes": 1381823,
+            "state": "Wisconsin",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 1404440,
+            "state": "Wisconsin",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Wyoming",
+        "children": [{
+            "votes": 55973,
+            "state": "Wyoming",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 174419,
+            "state": "Wyoming",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Alaska",
+        "children": [{
+            "votes": 116454,
+            "state": "Alaska",
+            "candidate": "Hillary Clinton"
+        }, {
+            "votes": 163387,
+            "state": "Alaska",
+            "candidate": "Donald Trump"
+        }],
+        "winner": "red"
+    }]
+}
