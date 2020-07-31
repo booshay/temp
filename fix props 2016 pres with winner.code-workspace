@@ -1,0 +1,616 @@
+{
+    "name": "vote data",
+    "children": [{
+        "state": "Alabama",
+        "children": [{
+            "value": 729547,
+            "category": "Alabama",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1318250,
+            "category": "Alabama",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Arizona",
+        "children": [{
+            "value": 1161167,
+            "category": "Arizona",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1252401,
+            "category": "Arizona",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Arkansas",
+        "children": [{
+            "value": 380494,
+            "category": "Arkansas",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 684872,
+            "category": "Arkansas",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "California",
+        "children": [{
+            "value": 8753788,
+            "category": "California",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 4483810,
+            "category": "California",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Colorado",
+        "children": [{
+            "value": 1338870,
+            "category": "Colorado",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1202484,
+            "category": "Colorado",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Connecticut",
+        "children": [{
+            "value": null,
+            "category": "Connecticut",
+            "name": "Hillary Clinton"
+        }, {
+            "value": null,
+            "category": "Connecticut",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Delaware",
+        "children": [{
+            "value": 235603,
+            "category": "Delaware",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 185127,
+            "category": "Delaware",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "District of Columbia",
+        "children": [{
+            "value": 282830,
+            "category": "District of Columbia",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 12723,
+            "category": "District of Columbia",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Florida",
+        "children": [{
+            "value": 4504975,
+            "category": "Florida",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 4617886,
+            "category": "Florida",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Georgia",
+        "children": [{
+            "value": 1877963,
+            "category": "Georgia",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2089104,
+            "category": "Georgia",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Hawaii",
+        "children": [{
+            "value": 266891,
+            "category": "Hawaii",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 128847,
+            "category": "Hawaii",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Idaho",
+        "children": [{
+            "value": 189765,
+            "category": "Idaho",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 409055,
+            "category": "Idaho",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Illinois",
+        "children": [{
+            "value": 3090729,
+            "category": "Illinois",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2146015,
+            "category": "Illinois",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Indiana",
+        "children": [{
+            "value": 1033126,
+            "category": "Indiana",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1557286,
+            "category": "Indiana",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Iowa",
+        "children": [{
+            "value": 653669,
+            "category": "Iowa",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 800983,
+            "category": "Iowa",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Kansas",
+        "children": [{
+            "value": 427005,
+            "category": "Kansas",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 671018,
+            "category": "Kansas",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Kentucky",
+        "children": [{
+            "value": 628854,
+            "category": "Kentucky",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1202971,
+            "category": "Kentucky",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Louisiana",
+        "children": [{
+            "value": 780154,
+            "category": "Louisiana",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1178638,
+            "category": "Louisiana",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Maine",
+        "children": [{
+            "value": 357735,
+            "category": "Maine",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 335593,
+            "category": "Maine",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Maryland",
+        "children": [{
+            "value": 1677928,
+            "category": "Maryland",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 943169,
+            "category": "Maryland",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Massachusetts",
+        "children": [{
+            "value": 1995196,
+            "category": "Massachusetts",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1090893,
+            "category": "Massachusetts",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Michigan",
+        "children": [{
+            "value": 2268839,
+            "category": "Michigan",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2279543,
+            "category": "Michigan",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Minnesota",
+        "children": [{
+            "value": 1367716,
+            "category": "Minnesota",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1322951,
+            "category": "Minnesota",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Mississippi",
+        "children": [{
+            "value": 485131,
+            "category": "Mississippi",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 700714,
+            "category": "Mississippi",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Missouri",
+        "children": [{
+            "value": 1071068,
+            "category": "Missouri",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1594511,
+            "category": "Missouri",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Montana",
+        "children": [{
+            "value": 177709,
+            "category": "Montana",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 279240,
+            "category": "Montana",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Nebraska",
+        "children": [{
+            "value": 284494,
+            "category": "Nebraska",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 495961,
+            "category": "Nebraska",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Nevada",
+        "children": [{
+            "value": 539260,
+            "category": "Nevada",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 512058,
+            "category": "Nevada",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "New Hampshire",
+        "children": [{
+            "value": 348526,
+            "category": "New Hampshire",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 345790,
+            "category": "New Hampshire",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "New Jersey",
+        "children": [{
+            "value": 2148278,
+            "category": "New Jersey",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1601933,
+            "category": "New Jersey",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "New Mexico",
+        "children": [{
+            "value": 385234,
+            "category": "New Mexico",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 319667,
+            "category": "New Mexico",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "New York",
+        "children": [{
+            "value": 4547562,
+            "category": "New York",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2814589,
+            "category": "New York",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "North Carolina",
+        "children": [{
+            "value": 2189316,
+            "category": "North Carolina",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2362631,
+            "category": "North Carolina",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "North Dakota",
+        "children": [{
+            "value": 93758,
+            "category": "North Dakota",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 216794,
+            "category": "North Dakota",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Ohio",
+        "children": [{
+            "value": 2394164,
+            "category": "Ohio",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2841005,
+            "category": "Ohio",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Oklahoma",
+        "children": [{
+            "value": 420375,
+            "category": "Oklahoma",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 949136,
+            "category": "Oklahoma",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Oregon",
+        "children": [{
+            "value": 1002106,
+            "category": "Oregon",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 782403,
+            "category": "Oregon",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Pennsylvania",
+        "children": [{
+            "value": 2926441,
+            "category": "Pennsylvania",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 2970733,
+            "category": "Pennsylvania",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Rhode Island",
+        "children": [{
+            "value": 252525,
+            "category": "Rhode Island",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 180543,
+            "category": "Rhode Island",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "South Carolina",
+        "children": [{
+            "value": 855373,
+            "category": "South Carolina",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1155389,
+            "category": "South Carolina",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "South Dakota",
+        "children": [{
+            "value": 117458,
+            "category": "South Dakota",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 227721,
+            "category": "South Dakota",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Tennessee",
+        "children": [{
+            "value": 870695,
+            "category": "Tennessee",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1522925,
+            "category": "Tennessee",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Texas",
+        "children": [{
+            "value": 3877868,
+            "category": "Texas",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 4685047,
+            "category": "Texas",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Utah",
+        "children": [{
+            "value": 310676,
+            "category": "Utah",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 515231,
+            "category": "Utah",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Vermont",
+        "children": [{
+            "value": 178573,
+            "category": "Vermont",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 95369,
+            "category": "Vermont",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Virginia",
+        "children": [{
+            "value": null,
+            "category": "Virginia",
+            "name": "Hillary Clinton"
+        }, {
+            "value": null,
+            "category": "Virginia",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Washington",
+        "children": [{
+            "value": 1742718,
+            "category": "Washington",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1221747,
+            "category": "Washington",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "West Virginia",
+        "children": [{
+            "value": 188794,
+            "category": "West Virginia",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 489371,
+            "category": "West Virginia",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Wisconsin",
+        "children": [{
+            "value": 1381823,
+            "category": "Wisconsin",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 1404440,
+            "category": "Wisconsin",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Wyoming",
+        "children": [{
+            "value": 55973,
+            "category": "Wyoming",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 174419,
+            "category": "Wyoming",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }, {
+        "state": "Alaska",
+        "children": [{
+            "value": 116454,
+            "category": "Alaska",
+            "name": "Hillary Clinton"
+        }, {
+            "value": 163387,
+            "category": "Alaska",
+            "name": "Donald Trump"
+        }],
+        "winner": "red"
+    }]
+}
